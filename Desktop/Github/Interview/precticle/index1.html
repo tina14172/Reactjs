@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Guess My Number</title>
+    
+    <link rel="stylesheet" href="https://fonts.google.com/specimen/EB+Garamond">
+    
+    <link rel="stylesheet" href="css1/style1.css" />
+  </head>
+  <body>
+    <div class="game-panel">
+      <button class="again-btn" id="againBtn" type="button">Again!</button>
+      <div class="range-label">(Between 1 and 20)</div>
+
+      <h1>Guess My Number!</h1>
+
+      <div class="middle-row">
+        <div class="guess-box">
+          <input id="guessInput" type="number" min="1" max="20" value="4" />
+        </div>
+
+        <div class="status-panel">
+          <div class="message-row">
+            <span class="emoji">🎯</span>
+            <span id="message">Correct Number!</span>
+          </div>
+          <div class="score-row">
+            <span class="emoji">🏆</span>
+            <span>Score: <strong id="score">20</strong></span>
+          </div>
+          <div class="score-row">
+            <span class="emoji">🥇</span>
+            <span>Highscore: <strong id="highscore">20</strong></span>
+          </div>
+        </div>
+      </div>
+
+      <div class="check-wrap">
+        <button class="check-btn" id="checkBtn" type="button">Check!</button>
+      </div>
+    </div>
+
+    <script src="js1/script1.js"></script>
+  </body>
+</html>

@@ -1,16 +1,54 @@
-# React + Vite
+# 📚 Book Blog
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive **Book Blog Management System** built using **React.js, Bootstrap, and JSON Server**.
 
-Currently, two official plugins are available:
+This project allows users to add, view, edit, and delete book blogs using a REST API.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 📖 Display book blogs
+- ➕ Add a new book blog
+- ✏️ Edit existing book blogs
+- 🗑️ Delete book blogs
+- 🖼️ Add book image using Image URL
+- 📅 Add publication/blog date
+- 👤 Add author name
+- 📝 Add book description
+- 📱 Responsive design
+- 🎨 Bootstrap UI
+- 🔗 JSON Server REST API
+- 💾 Store blog data in `db.json`
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+
+- React.js
+- JavaScript
+- HTML
+- CSS
+- Bootstrap
+- JSON Server
+- REST API
+- Vite
+
+---
+
+## 📂 Project Structure
+
+```text
+Book-Blog/
+│
+├── public/
+│
+├── src/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── ...
+│
+├── db.json
+├── package.json
+├── package-lock.json
+└── README.md

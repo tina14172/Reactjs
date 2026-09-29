@@ -1,0 +1,82 @@
+{
+  "Bookblogs": [
+    {
+      "blogNo": 1,
+      "img": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200",
+      "title": "Atomic Habits – Build Better Habits Every Day",
+      "name": "James Clear",
+      "date": "2026-09-28",
+      "description": "Atomic Habits teaches how small daily improvements can create remarkable long-term results. It explains practical ways to build good habits, break bad habits, and stay consistent every day.",
+      "id": "pHGoqZovkrE"
+    },
+    {
+      "blogNo": 2,
+      "img": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=1200",
+      "title": "The Alchemist – Follow Your Dreams",
+      "name": "Paulo Coelho",
+      "date": "2026-09-28",
+      "description": "The Alchemist is a motivational novel about Santiago, a shepherd who travels across the world in search of treasure and discovers the true meaning of dreams and destiny.",
+      "id": "qMXE-_b7UWQ"
+    },
+    {
+      "blogNo": 3,
+      "img": "https://images.unsplash.com/photo-1524578271613-d550eacf6090?w=1200",
+      "title": "Rich Dad Poor Dad – Learn Financial Freedom",
+      "name": "Robert T. Kiyosaki",
+      "date": "2026-09-28",
+      "description": "This book explains the importance of financial education, investing, saving, and creating wealth through smart financial decisions instead of only working for money.",
+      "id": "grxYT_sjXME"
+    },
+    {
+      "blogNo": 4,
+      "img": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=1200",
+      "title": "The Psychology of Money – Master Your Money Mindset",
+      "name": "Morgan Housel",
+      "date": "2026-09-28",
+      "description": "The Psychology of Money shows how emotions and behavior influence financial success. It shares timeless lessons about saving, investing, and making better money decisions.",
+      "id": "cdJ0QmKCHUg"
+    },
+    {
+      "blogNo": 5,
+      "img": "https://images.unsplash.com/photo-1526243741027-444d633d7365?w=1200",
+      "title": "Ikigai – Discover the Purpose of Life",
+      "name": "Héctor García & Francesc Miralles",
+      "date": "2026-09-28",
+      "description": "Ikigai introduces the Japanese concept of finding purpose in life. The book focuses on happiness, mindfulness, healthy living, and long-term fulfillment.",
+      "id": "KHL5088_HeQ"
+    },
+    {
+      "blogNo": 6,
+      "img": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=1200",
+      "title": "Harry Potter and the Philosopher's Stone",
+      "name": "J.K. Rowling",
+      "date": "2026-09-28",
+      "description": "The first Harry Potter novel takes readers into the magical world of Hogwarts with adventure, friendship, mystery, and unforgettable characters.",
+      "id": "dWpzwgNKAS4"
+    },
+    {
+      "blogNo": 7,
+      "img": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=1200",
+      "title": "Think and Grow Rich – Success Through Mindset",
+      "name": "Napoleon Hill",
+      "date": "2026-09-28",
+      "description": "Think and Grow Rich explains principles of success, positive thinking, goal setting, persistence, and building a successful mindset in personal and professional life.",
+      "id": "afWNGLkU2QM"
+    },
+    {
+      "title": "The Silent Patient – A Psychological Thriller",
+      "name": "Alex Michaelides",
+      "date": "2026-09-28",
+      "img": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=1200",
+      "id": "JpTx2RqlW28"
+    },
+    {
+      "title": "The 7 Habits of Highly Effective People",
+      "name": "Stephen R. ",
+      "date": "2026-09-28",
+      "img": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?w=1200",
+      "id": "jFsP38N94f8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

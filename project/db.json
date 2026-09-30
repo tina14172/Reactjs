@@ -76,6 +76,14 @@
       "date": "2026-09-28",
       "img": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?w=1200",
       "id": "jFsP38N94f8"
+    },
+    {
+      "blogNo": 10,
+      "img": "https://images.unsplash.com/photo-1519791883288-dc8bd696e667?w=1200",
+      "title": "Wings of Fire – The Journey of A.P.J. Abdul Kalam",
+      "name": "A.P.J. Abdul Kalam",
+      "date": "2026-09-28",
+      "description": "Wings of Fire is the inspiring autobiography of Dr. A.P.J. Abdul Kalam, sharing his journey from a small town to becoming India's Missile Man and President."
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"

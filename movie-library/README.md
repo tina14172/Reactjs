@@ -84,6 +84,9 @@ http://localhost:5173
 
 MovieHub features a modern dark-themed interface, a sidebar navigation menu, and sky-blue accent colors for links and hover effects.
 
+## Screenshots
+![screenshot](src/components/assets/mainpage.png)
+
 ## 📌 Purpose
 
 The purpose of this project is to practice React.js development, component-based architecture, state management with Redux, and front-end UI design.
